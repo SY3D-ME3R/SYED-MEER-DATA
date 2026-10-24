@@ -1,3 +1,3 @@
 # SYED-MEER-DATA
 
-Menu videos for the SYED MEER WhatsApp bot.
+Menu videos for the SUPERMAN-MD WhatsApp bot.
